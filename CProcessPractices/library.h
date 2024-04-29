@@ -1,0 +1,6 @@
+#ifndef CPROCESSPRACTICES_LIBRARY_H
+#define CPROCESSPRACTICES_LIBRARY_H
+
+void hello(int argc, char **argv);
+
+#endif //CPROCESSPRACTICES_LIBRARY_H
